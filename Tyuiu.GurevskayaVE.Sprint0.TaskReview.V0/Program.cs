@@ -11,7 +11,7 @@ namespace Tyuiu.GurevskayaVE.Sprint0.TaskReview.V0
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #0 | Выполнила: Гурьевская В.Е. | ПКТб-23-2";
+            Console.Title = "Спринт #0 | Выполнила: Гурьевская В.Е. | ПКТб-23-2"; 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
             Console.WriteLine("* Тема: Обзор спринта                                                     *");

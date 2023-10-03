@@ -10,7 +10,7 @@ namespace Tyuiu.GurevskayaVE.Sprint0.TaskReview.V0.Test
         [TestMethod]
         public void CheckCalc()
         {
-            Assert.AreEqual(15, DataService.Calc(1, 1, 1));
+            Assert.AreEqual(15, DataService.Calc(1, 1, 1)); 
         }
     }
     
